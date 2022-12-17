@@ -12,9 +12,9 @@ Windows User!
 
 
 
-- 🔭 I’m currently working on [Sleepyheads.](https://github.com/privatedev11/Sleepyheads)
-- 🌱 I’m currently learning C# and Roblox Game Development
+- 🔭 I’m currently working on [The Kidnapper.](https://github.com/privatedev11/TheKidnapper)
+- 🌱 I’m currently learning boring school stuff.
 - 💬 Ask me about HTML tags
-- 😄 Pronouns: he, them, they, private
+- 😄 Pronouns: he, them, they, idiot
 - 😸 Other Usernames: PrivateMe, PrivateGamer, PrivateGamer686, PrivateMusic and Busaruba (this is my old username and will be changed on sites sometime soon 😄)
 
