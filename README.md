@@ -12,7 +12,7 @@ Windows User!
 
 
 
-- 🔭 I’m currently working on [The Kidnapper.](https://github.com/privatedev11/TheKidnapper)
+- 🔭 I’m currently working on [Chatter.](https://github.com/privatedev11/Chatter)
 - 🌱 I’m currently learning boring school stuff.
 - 💬 Ask me about HTML tags
 - 😄 Pronouns: he, them, they, idiot
