@@ -6,15 +6,16 @@ I am a developer just making projects for fun.
 
 I'm only a beginner 😸
 
-I'm a Android user!
-
-Windows User!
-
-
-
 - 🔭 I’m currently working on [Chatter.](https://github.com/privatedev11/Chatter)
 - 🌱 I’m currently learning boring school stuff.
 - 💬 Ask me about HTML tags
 - 😄 Pronouns: he, them, they, idiot
 - 😸 Other Usernames: PrivateMe, PrivateGamer, PrivateGamer686, PrivateMusic and Busaruba (this is my old username and will be changed on sites sometime soon 😄)
+
+
+### Laptop Specs
+- CPU: i7-1165G7
+- RAM: 8gb
+- GPU: Intel Iris XE
+- Storage: 512gb NVMe
 
