@@ -8,7 +8,7 @@ I'm only a beginner 😸
 
 - 🔭 I’m currently working on [Chatter.](https://github.com/privatedev11/Chatter)
 - 🌱 I’m currently learning boring school stuff.
-- 💬 Ask me about HTML tags
+- 💬 Ask me about basic HTML tags
 - 😄 Pronouns: he, them, they, idiot
 - 😸 Other Usernames: PrivateMe, PrivateGamer, PrivateGamer686, PrivateMusic and Busaruba (this is my old username and will be changed on sites sometime soon 😄)
 
