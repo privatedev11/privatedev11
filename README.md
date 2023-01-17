@@ -1,6 +1,6 @@
 # Hi there, I'm PrivateDev11/PrivateMe! 👋
 
-[![PrivateDev11's GitHub stats](https://github-readme-stats.vercel.app/api?username=privatedev11)](https://github.com/anuraghazra/github-readme-stats)
+[![PrivateDev11's GitHub stats](https://github-readme-stats-o1ey.vercel.app/api?username=privatedev11)](https://github.com/anuraghazra/github-readme-stats)
 
 I am a developer just making projects for fun.
 
