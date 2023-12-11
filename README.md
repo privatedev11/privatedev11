@@ -1,7 +1,7 @@
 # Hi there, I'm PrivateDev11/PrivateMe! 👋
 
-![](https://raw.githubusercontent.com/privatedev11/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/privatedev11/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/privatedev11/github-stats/0fa4dcd506dab1dd636bfbef8eab955c398d4628/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/privatedev11/github-stats/0fa4dcd506dab1dd636bfbef8eab955c398d4628/generated/languages.svg#gh-dark-mode-only)
 
 I am a developer just making projects for fun.
 
