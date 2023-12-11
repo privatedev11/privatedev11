@@ -1,6 +1,7 @@
 # Hi there, I'm PrivateDev11/PrivateMe! 👋
 
-[![PrivateDev11's GitHub stats](https://github-readme-stats-o1ey.vercel.app/api?username=privatedev11)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/privatedev11/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/privatedev11/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 I am a developer just making projects for fun.
 
