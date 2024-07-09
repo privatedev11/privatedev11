@@ -19,4 +19,4 @@ I'm only a beginner 😸
 - RAM: 8gb
 - GPU: Intel Iris XE
 - Storage: 512gb NVMe
-
+- OS: Fedora 40 Workstation with KDE Plasma
