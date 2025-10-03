@@ -15,8 +15,8 @@ I'm only a beginner 😸
 
 
 ### My sick ass PC
-CPU - AMD Ryzen 5 7600X
-GPU - Radeon RX 7600
-RAM - 16gb DDR5-5200
-Storage - 512gb NVME for boot, 2tb HDD for files.
-OS - Windows 11 Pro
+- CPU - AMD Ryzen 5 7600X
+- GPU - Radeon RX 7600
+- RAM - 16gb DDR5-5200
+- Storage - 512gb NVME for boot, 2tb HDD for files.
+- OS - Windows 11 Pro
