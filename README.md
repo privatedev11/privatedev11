@@ -9,14 +9,14 @@ I'm only a beginner 😸
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning boring school stuff.
-- 💬 Ask me about basic HTML tags
-- 😄 Pronouns: he/him, they/them (I don't mind too much, if you use the wrong pronouns I'll just kindly correct you 🙂)
+- 💬 Ask me about HTML shit.
+- 😄 Pronouns: he/him
 - 😸 Other Usernames: PrivateMe, PrivateGamer, PrivateGamer686, PrivateMusic and Busaruba (this is my old username and will be changed on sites sometime soon 😄)
 
 
-### Laptop Specs
-- CPU: i7-1165G7
-- RAM: 8gb
-- GPU: Intel Iris XE
-- Storage: 512gb NVMe
-- OS: Fedora 40 Workstation with KDE Plasma
+### My sick ass PC
+CPU - AMD Ryzen 5 7600X
+GPU - Radeon RX 7600
+RAM - 16gb DDR5-5200
+Storage - 512gb NVME for boot, 2tb HDD for files.
+OS - Windows 11 Pro
