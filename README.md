@@ -18,5 +18,5 @@ I'm only a beginner 😸
 - CPU - AMD Ryzen 5 7600X
 - GPU - Radeon RX 7600
 - RAM - 16gb DDR5-5200
-- Storage - 512gb NVME for boot, 2tb HDD for files.
+- Storage - 512gb NVME for boot, 2tb NVME for files and games and 2tb HDD for backup.
 - OS - Windows 11 Pro
