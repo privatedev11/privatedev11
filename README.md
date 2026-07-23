@@ -7,7 +7,7 @@ I am a developer just making projects for fun.
 
 I'm only a beginner 😸
 
-- 🔭 I’m currently working on nothing.
+- 🔭 I’m currently working on [Beacon](https://github.com/privatedev11/Beacon), a Discord bot to help with Minecraft servers.
 - 🌱 I’m currently learning boring school stuff.
 - 💬 Ask me about HTML shit.
 - 😄 Pronouns: he/him
